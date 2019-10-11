@@ -1,0 +1,5 @@
+.DS_Store
+mAP/input/ground-truth/*.txt
+mAP/input/detection-results/*.txt
+darknet/labels/*.txt
+darknet/train/*.txt
