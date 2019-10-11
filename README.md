@@ -83,7 +83,7 @@ Contact me if you want to try industrial abnormal data.
 
 ### 4. Train
 
-1. Download pre-trained weights by https://pjreddie.com/media/files/darknet53.conv.74. Or you can directly use downloaded one in `darknet`
+1. Download pre-trained weights by https://pjreddie.com/media/files/darknet53.conv.74.
 
 2. run command in `darknet` folder (Mac or Linux)
 
